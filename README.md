@@ -1,2 +1,2 @@
-# web-site
-This repository keeps the progress documents about Reserve-It project 
+# rezerve-it
+## Representative Website for Reserve It Senior Project
